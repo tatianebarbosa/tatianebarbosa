@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:22c55e&text=Tatiana%20Barbosa&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Desenvolvedora%20em%20formação%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20Automação&descAlignY=58&descSize=16" alt="Tatiana Barbosa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:22c55e&text=Tatiana%20Barbosa&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Automação%20%7C%20Dados%20%7C%20Aplicações%20web&descAlignY=58&descSize=16" alt="Tatiana Barbosa" />
 
 ## Oi, eu sou a Tatiana
 
-Sou desenvolvedora em formação, criando projetos que juntam interface, dados e automação para resolver problemas reais. Tenho explorado principalmente **TypeScript**, **Next.js**, **Prisma**, análise de dados operacionais e recursos com IA/OCR.
+Sou desenvolvedora em formação com foco em **automação, dados e aplicações web**. Crio projetos que juntam interface, organização de informações e tecnologia para resolver problemas reais de operação.
 
-Gosto de transformar processos confusos em telas claras, fluxos acompanháveis e ferramentas que economizam trabalho manual.
+Tenho trabalhado principalmente com **TypeScript**, **Next.js**, **React**, **Prisma** e recursos de IA/OCR para transformar processos manuais em ferramentas mais claras, rastreáveis e fáceis de usar.
 
 <br />
 
-## Tecnologias
+## Tecnologias e ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -25,11 +25,23 @@ Gosto de transformar processos confusos em telas claras, fluxos acompanháveis e
 
 ## Projetos em destaque
 
-| Projeto | O que ele mostra |
-| --- | --- |
-| [Monitoria SAF](https://github.com/tatianebarbosa/Monitoria-SAF) | Aplicação em Next.js para importar, reconstruir e analisar atendimentos operacionais com apoio de IA, OCR e revisão humana. |
-| [fluent-flow](https://github.com/tatianebarbosa/fluent-flow) | Projeto em TypeScript com foco em fluxo, organização e experiência de uso. |
-| [voucher-saf](https://github.com/tatianebarbosa/voucher-saf) | Ferramenta voltada para rotina operacional e controle de processos. |
+### [Monitoria SAF](https://github.com/tatianebarbosa/Monitoria-SAF)
+
+Aplicação web criada para reduzir a análise manual de atendimentos SAF. O sistema importa conversas, reconstrói o histórico, identifica escola, agente, consultor e sinais operacionais importantes, entregando uma visão organizada para revisão humana.
+
+**Tecnologias:** Next.js, React, TypeScript, Prisma, Tailwind CSS, OCR e análise assistida por IA.
+
+### [safmaplebear](https://github.com/tatianebarbosa/safmaplebear)
+
+Painel operacional para governança de licenças Canva na rede MapleBear. Centraliza uso de licenças, conformidade, tickets, base de conhecimento, vouchers e ativos SAF em uma única interface de acompanhamento.
+
+**Tecnologias:** React, TypeScript, Vite, Tailwind CSS, dashboards e organização de dados operacionais.
+
+### [toggle-Dark-Light](https://github.com/tatianebarbosa/toggle-Dark-Light)
+
+Projeto de interface focado em experiência visual, alternância entre tema claro e escuro, transições suaves e persistência da preferência do usuário no navegador.
+
+**Tecnologias:** HTML, CSS, JavaScript, localStorage e responsividade.
 
 <br />
 
@@ -40,15 +52,6 @@ Gosto de transformar processos confusos em telas claras, fluxos acompanháveis e
 - Automações para reduzir tarefas repetitivas.
 - Interfaces mais claras para processos internos.
 - Projetos com IA aplicada a análise de texto, documentos e atendimentos.
-
-<br />
-
-## GitHub em números
-
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tatianebarbosa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Tatiana Barbosa" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianebarbosa&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas por Tatiana Barbosa" />
-</div>
 
 <br />
 
@@ -65,5 +68,5 @@ Gosto de transformar processos confusos em telas claras, fluxos acompanháveis e
 ---
 
 <p align="center">
-  Construindo um projeto melhor por vez.
+  Desenvolvendo soluções que conectam dados, operação e experiência de uso.
 </p>
