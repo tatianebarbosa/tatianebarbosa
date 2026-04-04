@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:22c55e&text=Tatiana%20Barbosa&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Automação%20%7C%20Dados%20%7C%20Aplicações%20web&descAlignY=58&descSize=16" alt="Tatiana Barbosa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:22c55e&text=Tatiana%20Barbosa&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Automação%20%7C%20Dados%20%7C%20Aplicações%20web&descAlignY=58&descSize=16" alt="Tatiane Barbosa" />
 
-## Oi, eu sou a Tatiana
+## Oi, eu sou a Tatiane
 
 Sou desenvolvedora em formação com foco em **automação, dados e aplicações web**. Crio projetos que juntam interface, organização de informações e tecnologia para resolver problemas reais de operação.
 
