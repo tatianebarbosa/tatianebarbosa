@@ -32,6 +32,7 @@ Tenho trabalhado principalmente com **TypeScript**, **Next.js**, **React**, **Vi
       <h3><a href="https://github.com/tatianebarbosa/PlanMe">PlanMe</a></h3>
       <p>Planner digital retrô desenvolvido como projeto final do curso Desenvolvedor Web do Senac, com calendário mensal, anotações CRUD, busca, categorias e widget flutuante de máquina de escrever.</p>
       <p><strong>Tecnologias:</strong> React, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router e Local Storage.</p>
+      <p><a href="https://tatianebarbosa.github.io/PlanMe/">Pré-visualização</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/tatianebarbosa/fluent-flow">Fluent Flow</a></h3>
@@ -51,6 +52,7 @@ Tenho trabalhado principalmente com **TypeScript**, **Next.js**, **React**, **Vi
       <h3><a href="https://github.com/tatianebarbosa/loja-virtual">loja-virtual</a></h3>
       <p>Loja virtual simples com backend em Express, frontend estático, listagem de produtos e rotas para consulta de itens por id.</p>
       <p><strong>Tecnologias:</strong> JavaScript, Node.js, Express, HTML e CSS.</p>
+      <p><a href="https://tatianebarbosa.github.io/loja-virtual/">Pré-visualização</a></p>
     </td>
   </tr>
 </table>
