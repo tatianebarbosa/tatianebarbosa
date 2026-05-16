@@ -73,6 +73,9 @@ Tenho trabalhado principalmente com **TypeScript**, **Next.js**, **React**, **Vi
   <a href="https://github.com/tatianebarbosa">
     <img src="https://img.shields.io/badge/GitHub-tatianebarbosa-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/tatiane-barbosa-901200149/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tatiane%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 <br />
