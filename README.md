@@ -29,13 +29,13 @@ Tenho trabalhado principalmente com **TypeScript**, **Next.js**, **React**, **Vi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/tatianebarbosa/PlanMe">PlanMe</a></h3>
+      <h3><a href="https://github.com/tatianebarbosa/PlanMe">Planeje-me</a></h3>
       <p>Planner digital retrô desenvolvido como projeto final do curso Desenvolvedor Web do Senac, com calendário mensal, anotações CRUD, busca, categorias e widget flutuante de máquina de escrever.</p>
       <p><strong>Tecnologias:</strong> React, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router e Local Storage.</p>
       <p><a href="https://tatianebarbosa.github.io/PlanMe/">Pré-visualização</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/tatianebarbosa/fluent-flow">Fluent Flow</a></h3>
+      <h3><a href="https://github.com/tatianebarbosa/fluent-flow">Fluxo Fluente</a></h3>
       <p>Aplicação de estudos com treinos de inglês por repetição, síntese de voz, categorias, ajustes salvos no navegador e área para revisão da prova teórica da CNH.</p>
       <p><strong>Tecnologias:</strong> Next.js, React, TypeScript, Tailwind CSS, Lucide React, Web Speech API e PWA.</p>
       <p><a href="https://app-timesaf.vercel.app">Pré-visualização</a></p>
@@ -43,13 +43,13 @@ Tenho trabalhado principalmente com **TypeScript**, **Next.js**, **React**, **Vi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/tatianebarbosa/starbucks-ia">starbucks-ia</a></h3>
+      <h3><a href="https://github.com/tatianebarbosa/starbucks-ia">Starbucks IA</a></h3>
       <p>Página interativa inspirada em cafeteria, com vitrine de bebidas, personalização do pedido, carrinho, cupom de desconto e finalização simulada.</p>
       <p><strong>Tecnologias:</strong> HTML5, CSS3, JavaScript, Local Storage e layout responsivo.</p>
       <p><a href="https://tatianebarbosa.github.io/starbucks-ia/">Pré-visualização</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/tatianebarbosa/loja-virtual">loja-virtual</a></h3>
+      <h3><a href="https://github.com/tatianebarbosa/loja-virtual">TechPlace</a></h3>
       <p>Loja virtual simples com backend em Express, frontend estático, listagem de produtos e rotas para consulta de itens por id.</p>
       <p><strong>Tecnologias:</strong> JavaScript, Node.js, Express, HTML e CSS.</p>
       <p><a href="https://tatianebarbosa.github.io/loja-virtual/">Pré-visualização</a></p>
