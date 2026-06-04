@@ -2,15 +2,11 @@
 
 ## Oi, eu sou a Tatiane
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Estácio**, atualmente no **3º semestre**, e desenvolvedora em formação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Estácio**, atualmente no **3º semestre**, e desenvolvedora em formação com foco em **aplicações web, automação e organização de dados**.
 
-Tenho base em **HTML**, **CSS** e **JavaScript**, conhecimentos que desenvolvi no curso de **Desenvolvedor Web do SENAC**, e venho evoluindo meus estudos em **automação, dados e aplicações web**.
+Tenho base em **HTML**, **CSS** e **JavaScript**, construída no curso de **Desenvolvedor Web do SENAC**, e sigo evoluindo com **TypeScript**, **React**, **Next.js**, **Vite**, **Node.js**, **Prisma**, **Tailwind CSS** e recursos de **IA/OCR**.
 
-Crio projetos que ajudam a organizar informações, reduzir tarefas manuais e facilitar rotinas operacionais, unindo interface, tecnologia e solução de problemas reais.
-
-Atualmente desenvolvo projetos com o apoio de ferramentas de **IA**, utilizando a tecnologia como parceira no aprendizado, na estruturação de código, na criação de interfaces e na construção de soluções mais práticas.
-
-Também venho estudando e praticando tecnologias como **TypeScript**, **React**, **Next.js**, **Vite**, **Node.js**, **Prisma**, **Tailwind CSS** e recursos de **IA/OCR**.
+Gosto de criar projetos que transformam rotinas manuais em ferramentas mais claras, rastreáveis e fáceis de usar. Uso IA como apoio no aprendizado, na estruturação de código, na criação de interfaces e na construção de soluções práticas para problemas reais.
 
 <br />
 
@@ -138,6 +134,15 @@ Também venho estudando e praticando tecnologias como **TypeScript**, **React**,
 - Interfaces simples e funcionais
 - IA aplicada ao aprendizado e produtividade
 - Soluções para rotinas operacionais
+
+<br />
+
+## Atividade no GitHub
+
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tatianebarbosa&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Tatiane Barbosa" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianebarbosa&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Tatiane Barbosa" />
+</div>
 
 <br />
 
