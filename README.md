@@ -139,10 +139,8 @@ Gosto de criar projetos que transformam rotinas manuais em ferramentas mais clar
 
 ## Atividade no GitHub
 
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tatianebarbosa&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Tatiane Barbosa" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianebarbosa&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Tatiane Barbosa" />
-</div>
+- [Ver meus repositórios públicos](https://github.com/tatianebarbosa?tab=repositories)
+- [Ver contribuições e commits](https://github.com/tatianebarbosa)
 
 <br />
 
